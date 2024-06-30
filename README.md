@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anyelle</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🔭 I’m currently working on [RoadSync](https://github.com/anyellezanatta/road-sync)
+- 🔭 I’m currently working on [Tic-Tac-Toe](https://github.com/anyellezanatta/rn-tic-tac-toe)
 
-- 🌱 I’m currently learning **React, Ruby on rails...**
+- 🌱 I’m currently learning **React, React Native, Ruby on Rails...**
 
 - 📫 How to reach me **anyelle.ad@gmail.com**
 
