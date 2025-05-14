@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anyelle</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Tic-Tac-Toe](https://github.com/anyellezanatta/rn-tic-tac-toe)
+- 🔭 My last project [Tic-Tac-Toe](https://github.com/anyellezanatta/rn-tic-tac-toe)
 
 - 🌱 I’m currently learning **React, React Native, Ruby on Rails...**
 
