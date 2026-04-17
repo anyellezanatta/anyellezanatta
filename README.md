@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Software Engineer | React & TypeScript</h3>
 
 <p align="center">
-Frontend Software Engineer with 7+ years of experience building modern web applications.
+Frontend Software Engineer with 8+ years of experience building modern web applications.
 Currently working at <b>WebSpace</b>, developing web and web3 products using React, TypeScript,
 Next.js, and Vite.
 </p>
